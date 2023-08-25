@@ -1,3 +1,5 @@
 {
-    "dart.flutterSdkPath": "/Users/myname/flutter_projects/nutriapp/.fvm/flutter_sdk"
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
 }

@@ -48,11 +48,8 @@ class AllSurahsWidget extends StatelessWidget {
                   Row(
                     children: [
                       Expanded(
-                        child: SizedBox(
-                          width: 300,
-                          child: Text(
-                            "${surahs.englishName}  (${surahs.englishNameTranslation})",
-                          ),
+                        child: Text(
+                          "${surahs.englishName}  (${surahs.englishNameTranslation})",
                         ),
                       ),
                     ],
